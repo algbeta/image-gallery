@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "id": "hash1",
+      "title": "frozen road",
+      "previewUrl": "./small/1.jpg",
+      "url": "./medium/1.jpg"
+    },
+    {
+      "id": "hash2",
+      "title": "sunny road",
+      "previewUrl": "./small/2.jpg",
+      "url": "./medium/2.jpg"
+    },
+    {
+      "id": "hash3",
+      "title": "tree in a field",
+      "previewUrl": "./small/3.jpg",
+      "url": "./medium/3.jpg"
+    },
+    {
+      "id": "hash4",
+      "title": "autumn road",
+      "previewUrl": "./small/4.jpg",
+      "url": "./medium/4.jpg"
+    },
+    {
+      "id": "hash5",
+      "title": "autumn forest",
+      "previewUrl": "./small/5.jpg",
+      "url": "./medium/5.jpg"
+    }
+  ]
+}
